@@ -1,0 +1,15 @@
+
+DATA QUALITY REPORT
+===================
+Rows before cleaning: 112
+Rows after cleaning: 112
+Duplicates removed: 0
+
+Missing values:
+co2_per_capita                     112
+renewable_electricity_share_pct     22
+unemployment_pct                     0
+labor_force_participation_pct        0
+gdp_growth_pct                       0
+
+Missing values were not replaced with zero.

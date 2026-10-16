@@ -1,0 +1,449 @@
+country_code,country,year,indicator_name,value
+IND,India,2023,renewable_electricity_share_pct,
+IND,India,2022,renewable_electricity_share_pct,
+IND,India,2021,renewable_electricity_share_pct,19.1298662811444
+IND,India,2020,renewable_electricity_share_pct,19.756300311713
+IND,India,2019,renewable_electricity_share_pct,16.8292402938995
+IND,India,2018,renewable_electricity_share_pct,15.0117807369317
+IND,India,2017,renewable_electricity_share_pct,14.1609071395883
+IND,India,2016,renewable_electricity_share_pct,13.5986245895964
+IND,India,2015,renewable_electricity_share_pct,14.8962899835153
+IND,India,2014,renewable_electricity_share_pct,15.8754192356745
+IND,India,2013,renewable_electricity_share_pct,15.3110391105333
+IND,India,2012,renewable_electricity_share_pct,16.2581448975524
+IND,India,2011,renewable_electricity_share_pct,15.3182338734367
+IND,India,2010,renewable_electricity_share_pct,14.9537245480382
+IND,India,2023,unemployment_pct,4.172
+IND,India,2022,unemployment_pct,4.822
+IND,India,2021,unemployment_pct,6.38
+IND,India,2020,unemployment_pct,7.859
+IND,India,2019,unemployment_pct,6.51
+IND,India,2018,unemployment_pct,7.652
+IND,India,2017,unemployment_pct,7.626
+IND,India,2016,unemployment_pct,7.611
+IND,India,2015,unemployment_pct,7.629
+IND,India,2014,unemployment_pct,7.656
+IND,India,2013,unemployment_pct,7.678
+IND,India,2012,unemployment_pct,7.645
+IND,India,2011,unemployment_pct,7.609
+IND,India,2010,unemployment_pct,7.631
+IND,India,2023,labor_force_participation_pct,54.697
+IND,India,2022,labor_force_participation_pct,53.587
+IND,India,2021,labor_force_participation_pct,52.522
+IND,India,2020,labor_force_participation_pct,51.547
+IND,India,2019,labor_force_participation_pct,52.284
+IND,India,2018,labor_force_participation_pct,52.482
+IND,India,2017,labor_force_participation_pct,52.671
+IND,India,2016,labor_force_participation_pct,52.852
+IND,India,2015,labor_force_participation_pct,53.031
+IND,India,2014,labor_force_participation_pct,53.206
+IND,India,2013,labor_force_participation_pct,53.364
+IND,India,2012,labor_force_participation_pct,53.509
+IND,India,2011,labor_force_participation_pct,54.131
+IND,India,2010,labor_force_participation_pct,54.766
+IND,India,2023,gdp_growth_pct,7.210224629335
+IND,India,2022,gdp_growth_pct,7.6093649776932
+IND,India,2021,gdp_growth_pct,9.68959249191741
+IND,India,2020,gdp_growth_pct,-5.77772470687303
+IND,India,2019,gdp_growth_pct,3.87143694070524
+IND,India,2018,gdp_growth_pct,6.45385134495295
+IND,India,2017,gdp_growth_pct,6.79538341902422
+IND,India,2016,gdp_growth_pct,8.25630550176662
+IND,India,2015,gdp_growth_pct,7.99625378567987
+IND,India,2014,gdp_growth_pct,7.41022760516977
+IND,India,2013,gdp_growth_pct,6.38610640091713
+IND,India,2012,gdp_growth_pct,5.45638755164772
+IND,India,2011,gdp_growth_pct,5.24131620024293
+IND,India,2010,gdp_growth_pct,8.49758470165625
+BGD,Bangladesh,2023,renewable_electricity_share_pct,
+BGD,Bangladesh,2022,renewable_electricity_share_pct,
+BGD,Bangladesh,2021,renewable_electricity_share_pct,1.50700412377625
+BGD,Bangladesh,2020,renewable_electricity_share_pct,1.47179252800825
+BGD,Bangladesh,2019,renewable_electricity_share_pct,1.41950201598642
+BGD,Bangladesh,2018,renewable_electricity_share_pct,1.58719560094266
+BGD,Bangladesh,2017,renewable_electricity_share_pct,1.85101564738142
+BGD,Bangladesh,2016,renewable_electricity_share_pct,1.82769857433809
+BGD,Bangladesh,2015,renewable_electricity_share_pct,1.82584212662338
+BGD,Bangladesh,2014,renewable_electricity_share_pct,1.51239107484746
+BGD,Bangladesh,2013,renewable_electricity_share_pct,1.84805268109125
+BGD,Bangladesh,2012,renewable_electricity_share_pct,2.1463599958928
+BGD,Bangladesh,2011,renewable_electricity_share_pct,2.26185422687861
+BGD,Bangladesh,2010,renewable_electricity_share_pct,2.19929487807267
+BGD,Bangladesh,2023,unemployment_pct,3.352
+BGD,Bangladesh,2022,unemployment_pct,4.593
+BGD,Bangladesh,2021,unemployment_pct,5.457
+BGD,Bangladesh,2020,unemployment_pct,5.539
+BGD,Bangladesh,2019,unemployment_pct,4.504
+BGD,Bangladesh,2018,unemployment_pct,4.439
+BGD,Bangladesh,2017,unemployment_pct,4.372
+BGD,Bangladesh,2016,unemployment_pct,4.35
+BGD,Bangladesh,2015,unemployment_pct,4.397
+BGD,Bangladesh,2014,unemployment_pct,4.417
+BGD,Bangladesh,2013,unemployment_pct,4.426
+BGD,Bangladesh,2012,unemployment_pct,4.07
+BGD,Bangladesh,2011,unemployment_pct,3.737
+BGD,Bangladesh,2010,unemployment_pct,3.379
+BGD,Bangladesh,2023,labor_force_participation_pct,60.885
+BGD,Bangladesh,2022,labor_force_participation_pct,61.873
+BGD,Bangladesh,2021,labor_force_participation_pct,61.085
+BGD,Bangladesh,2020,labor_force_participation_pct,59.77
+BGD,Bangladesh,2019,labor_force_participation_pct,59.47
+BGD,Bangladesh,2018,labor_force_participation_pct,58.915
+BGD,Bangladesh,2017,labor_force_participation_pct,58.328
+BGD,Bangladesh,2016,labor_force_participation_pct,56.09
+BGD,Bangladesh,2015,labor_force_participation_pct,56.454
+BGD,Bangladesh,2014,labor_force_participation_pct,56.817
+BGD,Bangladesh,2013,labor_force_participation_pct,57.18
+BGD,Bangladesh,2012,labor_force_participation_pct,57.647
+BGD,Bangladesh,2011,labor_force_participation_pct,58.112
+BGD,Bangladesh,2010,labor_force_participation_pct,58.576
+BGD,Bangladesh,2023,gdp_growth_pct,5.77511237007889
+BGD,Bangladesh,2022,gdp_growth_pct,7.09982877575158
+BGD,Bangladesh,2021,gdp_growth_pct,6.93867912442445
+BGD,Bangladesh,2020,gdp_growth_pct,3.44801755122445
+BGD,Bangladesh,2019,gdp_growth_pct,7.88191515117722
+BGD,Bangladesh,2018,gdp_growth_pct,7.31941263014136
+BGD,Bangladesh,2017,gdp_growth_pct,6.59024999794057
+BGD,Bangladesh,2016,gdp_growth_pct,7.11347821270093
+BGD,Bangladesh,2015,gdp_growth_pct,6.55263987816197
+BGD,Bangladesh,2014,gdp_growth_pct,6.0610593588495
+BGD,Bangladesh,2013,gdp_growth_pct,6.01360565834344
+BGD,Bangladesh,2012,gdp_growth_pct,6.52145877906443
+BGD,Bangladesh,2011,gdp_growth_pct,6.46437912497728
+BGD,Bangladesh,2010,gdp_growth_pct,5.57178818533122
+NPL,Nepal,2023,renewable_electricity_share_pct,
+NPL,Nepal,2022,renewable_electricity_share_pct,
+NPL,Nepal,2021,renewable_electricity_share_pct,83.9765900145018
+NPL,Nepal,2020,renewable_electricity_share_pct,
+NPL,Nepal,2019,renewable_electricity_share_pct,93.3275721506604
+NPL,Nepal,2018,renewable_electricity_share_pct,
+NPL,Nepal,2017,renewable_electricity_share_pct,
+NPL,Nepal,2016,renewable_electricity_share_pct,95.0460321265884
+NPL,Nepal,2015,renewable_electricity_share_pct,
+NPL,Nepal,2014,renewable_electricity_share_pct,98.8263852242744
+NPL,Nepal,2013,renewable_electricity_share_pct,
+NPL,Nepal,2012,renewable_electricity_share_pct,
+NPL,Nepal,2011,renewable_electricity_share_pct,99.9859679266896
+NPL,Nepal,2010,renewable_electricity_share_pct,96.3675187032419
+NPL,Nepal,2023,unemployment_pct,10.437
+NPL,Nepal,2022,unemployment_pct,10.661
+NPL,Nepal,2021,unemployment_pct,12.241
+NPL,Nepal,2020,unemployment_pct,13.037
+NPL,Nepal,2019,unemployment_pct,10.477
+NPL,Nepal,2018,unemployment_pct,10.593
+NPL,Nepal,2017,unemployment_pct,10.66
+NPL,Nepal,2016,unemployment_pct,10.714
+NPL,Nepal,2015,unemployment_pct,10.643
+NPL,Nepal,2014,unemployment_pct,10.62
+NPL,Nepal,2013,unemployment_pct,10.666
+NPL,Nepal,2012,unemployment_pct,10.632
+NPL,Nepal,2011,unemployment_pct,10.627
+NPL,Nepal,2010,unemployment_pct,10.563
+NPL,Nepal,2023,labor_force_participation_pct,39.379
+NPL,Nepal,2022,labor_force_participation_pct,39.428
+NPL,Nepal,2021,labor_force_participation_pct,39.513
+NPL,Nepal,2020,labor_force_participation_pct,39.387
+NPL,Nepal,2019,labor_force_participation_pct,39.765
+NPL,Nepal,2018,labor_force_participation_pct,39.743
+NPL,Nepal,2017,labor_force_participation_pct,39.915
+NPL,Nepal,2016,labor_force_participation_pct,40.096
+NPL,Nepal,2015,labor_force_participation_pct,40.224
+NPL,Nepal,2014,labor_force_participation_pct,40.339
+NPL,Nepal,2013,labor_force_participation_pct,40.511
+NPL,Nepal,2012,labor_force_participation_pct,40.697
+NPL,Nepal,2011,labor_force_participation_pct,40.835
+NPL,Nepal,2010,labor_force_participation_pct,40.908
+NPL,Nepal,2023,gdp_growth_pct,1.98254843461849
+NPL,Nepal,2022,gdp_growth_pct,5.6313145568451
+NPL,Nepal,2021,gdp_growth_pct,4.838149614115
+NPL,Nepal,2020,gdp_growth_pct,-2.3696206292072
+NPL,Nepal,2019,gdp_growth_pct,6.65705543110468
+NPL,Nepal,2018,gdp_growth_pct,7.62237610397933
+NPL,Nepal,2017,gdp_growth_pct,8.97727935643466
+NPL,Nepal,2016,gdp_growth_pct,0.433113719381524
+NPL,Nepal,2015,gdp_growth_pct,3.97605327162971
+NPL,Nepal,2014,gdp_growth_pct,6.01148284250441
+NPL,Nepal,2013,gdp_growth_pct,3.52515317129149
+NPL,Nepal,2012,gdp_growth_pct,4.67014192446953
+NPL,Nepal,2011,gdp_growth_pct,3.42180870116162
+NPL,Nepal,2010,gdp_growth_pct,4.81641464694573
+LKA,Sri Lanka,2023,renewable_electricity_share_pct,
+LKA,Sri Lanka,2022,renewable_electricity_share_pct,
+LKA,Sri Lanka,2021,renewable_electricity_share_pct,49.2380351199357
+LKA,Sri Lanka,2020,renewable_electricity_share_pct,35.1981051864448
+LKA,Sri Lanka,2019,renewable_electricity_share_pct,34.3886657190532
+LKA,Sri Lanka,2018,renewable_electricity_share_pct,45.049362852362
+LKA,Sri Lanka,2017,renewable_electricity_share_pct,30.0104386892178
+LKA,Sri Lanka,2016,renewable_electricity_share_pct,32.6232147857743
+LKA,Sri Lanka,2015,renewable_electricity_share_pct,48.4749658625398
+LKA,Sri Lanka,2014,renewable_electricity_share_pct,52.7744161784768
+LKA,Sri Lanka,2013,renewable_electricity_share_pct,59.780004990435
+LKA,Sri Lanka,2012,renewable_electricity_share_pct,29.2712377111167
+LKA,Sri Lanka,2011,renewable_electricity_share_pct,40.7778349631155
+LKA,Sri Lanka,2010,renewable_electricity_share_pct,53.0379594481992
+LKA,Sri Lanka,2023,unemployment_pct,4.528
+LKA,Sri Lanka,2022,unemployment_pct,4.528
+LKA,Sri Lanka,2021,unemployment_pct,4.981
+LKA,Sri Lanka,2020,unemployment_pct,5.364
+LKA,Sri Lanka,2019,unemployment_pct,4.67
+LKA,Sri Lanka,2018,unemployment_pct,4.318
+LKA,Sri Lanka,2017,unemployment_pct,4.046
+LKA,Sri Lanka,2016,unemployment_pct,4.242
+LKA,Sri Lanka,2015,unemployment_pct,4.519
+LKA,Sri Lanka,2014,unemployment_pct,4.157
+LKA,Sri Lanka,2013,unemployment_pct,4.186
+LKA,Sri Lanka,2012,unemployment_pct,3.88
+LKA,Sri Lanka,2011,unemployment_pct,4.118
+LKA,Sri Lanka,2010,unemployment_pct,4.784
+LKA,Sri Lanka,2023,labor_force_participation_pct,47.4
+LKA,Sri Lanka,2022,labor_force_participation_pct,49.727
+LKA,Sri Lanka,2021,labor_force_participation_pct,49.836
+LKA,Sri Lanka,2020,labor_force_participation_pct,50.495
+LKA,Sri Lanka,2019,labor_force_participation_pct,52.249
+LKA,Sri Lanka,2018,labor_force_participation_pct,51.721
+LKA,Sri Lanka,2017,labor_force_participation_pct,53.991
+LKA,Sri Lanka,2016,labor_force_participation_pct,53.725
+LKA,Sri Lanka,2015,labor_force_participation_pct,53.669
+LKA,Sri Lanka,2014,labor_force_participation_pct,51.599
+LKA,Sri Lanka,2013,labor_force_participation_pct,52.053
+LKA,Sri Lanka,2012,labor_force_participation_pct,52.57
+LKA,Sri Lanka,2011,labor_force_participation_pct,52.867
+LKA,Sri Lanka,2010,labor_force_participation_pct,53.295
+LKA,Sri Lanka,2023,gdp_growth_pct,-2.0289296690344
+LKA,Sri Lanka,2022,gdp_growth_pct,-7.34919311146656
+LKA,Sri Lanka,2021,gdp_growth_pct,4.2074764950026
+LKA,Sri Lanka,2020,gdp_growth_pct,-4.62451503712715
+LKA,Sri Lanka,2019,gdp_growth_pct,-0.220483886824823
+LKA,Sri Lanka,2018,gdp_growth_pct,2.31008425504933
+LKA,Sri Lanka,2017,gdp_growth_pct,6.46068127080994
+LKA,Sri Lanka,2016,gdp_growth_pct,5.05362488993089
+LKA,Sri Lanka,2015,gdp_growth_pct,4.20595547501601
+LKA,Sri Lanka,2014,gdp_growth_pct,6.37797889684965
+LKA,Sri Lanka,2013,gdp_growth_pct,4.0517463303875
+LKA,Sri Lanka,2012,gdp_growth_pct,8.6321813769906
+LKA,Sri Lanka,2011,gdp_growth_pct,8.66948301160571
+LKA,Sri Lanka,2010,gdp_growth_pct,8.01596737040464
+PAK,Pakistan,2023,renewable_electricity_share_pct,
+PAK,Pakistan,2022,renewable_electricity_share_pct,
+PAK,Pakistan,2021,renewable_electricity_share_pct,28.2763877589336
+PAK,Pakistan,2020,renewable_electricity_share_pct,32.2346969793368
+PAK,Pakistan,2019,renewable_electricity_share_pct,31.7575224945587
+PAK,Pakistan,2018,renewable_electricity_share_pct,28.8651451152443
+PAK,Pakistan,2017,renewable_electricity_share_pct,27.680881042506
+PAK,Pakistan,2016,renewable_electricity_share_pct,30.7022751755587
+PAK,Pakistan,2015,renewable_electricity_share_pct,33.1300832000575
+PAK,Pakistan,2014,renewable_electricity_share_pct,32.5710173103526
+PAK,Pakistan,2013,renewable_electricity_share_pct,31.8112629232484
+PAK,Pakistan,2012,renewable_electricity_share_pct,32.1826371911573
+PAK,Pakistan,2011,renewable_electricity_share_pct,33.4492901461773
+PAK,Pakistan,2010,renewable_electricity_share_pct,33.4423207323275
+PAK,Pakistan,2023,unemployment_pct,5.237
+PAK,Pakistan,2022,unemployment_pct,5.291
+PAK,Pakistan,2021,unemployment_pct,6.338
+PAK,Pakistan,2020,unemployment_pct,5.994
+PAK,Pakistan,2019,unemployment_pct,4.83
+PAK,Pakistan,2018,unemployment_pct,4.083
+PAK,Pakistan,2017,unemployment_pct,3.204
+PAK,Pakistan,2016,unemployment_pct,2.285
+PAK,Pakistan,2015,unemployment_pct,3.566
+PAK,Pakistan,2014,unemployment_pct,1.827
+PAK,Pakistan,2013,unemployment_pct,2.954
+PAK,Pakistan,2012,unemployment_pct,3.667
+PAK,Pakistan,2011,unemployment_pct,0.796
+PAK,Pakistan,2010,unemployment_pct,0.653
+PAK,Pakistan,2023,labor_force_participation_pct,52.372
+PAK,Pakistan,2022,labor_force_participation_pct,52.406
+PAK,Pakistan,2021,labor_force_participation_pct,52.73
+PAK,Pakistan,2020,labor_force_participation_pct,51.587
+PAK,Pakistan,2019,labor_force_participation_pct,51.597
+PAK,Pakistan,2018,labor_force_participation_pct,50.994
+PAK,Pakistan,2017,labor_force_participation_pct,51.338
+PAK,Pakistan,2016,labor_force_participation_pct,51.682
+PAK,Pakistan,2015,labor_force_participation_pct,52.026
+PAK,Pakistan,2014,labor_force_participation_pct,50.997
+PAK,Pakistan,2013,labor_force_participation_pct,51.451
+PAK,Pakistan,2012,labor_force_participation_pct,51.113
+PAK,Pakistan,2011,labor_force_participation_pct,50.775
+PAK,Pakistan,2010,labor_force_participation_pct,50.997
+PAK,Pakistan,2023,gdp_growth_pct,-0.414935997088406
+PAK,Pakistan,2022,gdp_growth_pct,4.7781068690358
+PAK,Pakistan,2021,gdp_growth_pct,6.51388575852702
+PAK,Pakistan,2020,gdp_growth_pct,-1.27408744338709
+PAK,Pakistan,2019,gdp_growth_pct,2.49763692943365
+PAK,Pakistan,2018,gdp_growth_pct,6.15170261099519
+PAK,Pakistan,2017,gdp_growth_pct,4.43262590683975
+PAK,Pakistan,2016,gdp_growth_pct,6.57383828511043
+PAK,Pakistan,2015,gdp_growth_pct,4.21794209572506
+PAK,Pakistan,2014,gdp_growth_pct,4.11642817161422
+PAK,Pakistan,2013,gdp_growth_pct,4.36686504978387
+PAK,Pakistan,2012,gdp_growth_pct,3.02758391088629
+PAK,Pakistan,2011,gdp_growth_pct,2.68011685421705
+PAK,Pakistan,2010,gdp_growth_pct,1.50171752152883
+IDN,Indonesia,2023,renewable_electricity_share_pct,
+IDN,Indonesia,2022,renewable_electricity_share_pct,
+IDN,Indonesia,2021,renewable_electricity_share_pct,15.4607636838472
+IDN,Indonesia,2020,renewable_electricity_share_pct,15.7987325866262
+IDN,Indonesia,2019,renewable_electricity_share_pct,14.5635812486604
+IDN,Indonesia,2018,renewable_electricity_share_pct,15.5767172167707
+IDN,Indonesia,2017,renewable_electricity_share_pct,15.7450397330289
+IDN,Indonesia,2016,renewable_electricity_share_pct,15.1172262829298
+IDN,Indonesia,2015,renewable_electricity_share_pct,13.6339708948125
+IDN,Indonesia,2014,renewable_electricity_share_pct,14.4806362553077
+IDN,Indonesia,2013,renewable_electricity_share_pct,15.8799609237344
+IDN,Indonesia,2012,renewable_electricity_share_pct,15.0142135155949
+IDN,Indonesia,2011,renewable_electricity_share_pct,15.9698347345237
+IDN,Indonesia,2010,renewable_electricity_share_pct,19.5486773530157
+IDN,Indonesia,2023,unemployment_pct,3.308
+IDN,Indonesia,2022,unemployment_pct,3.462
+IDN,Indonesia,2021,unemployment_pct,3.827
+IDN,Indonesia,2020,unemployment_pct,4.255
+IDN,Indonesia,2019,unemployment_pct,3.59
+IDN,Indonesia,2018,unemployment_pct,4.387
+IDN,Indonesia,2017,unemployment_pct,3.783
+IDN,Indonesia,2016,unemployment_pct,4.301
+IDN,Indonesia,2015,unemployment_pct,4.514
+IDN,Indonesia,2014,unemployment_pct,4.049
+IDN,Indonesia,2013,unemployment_pct,4.336
+IDN,Indonesia,2012,unemployment_pct,4.468
+IDN,Indonesia,2011,unemployment_pct,5.153
+IDN,Indonesia,2010,unemployment_pct,5.614
+IDN,Indonesia,2023,labor_force_participation_pct,67.899
+IDN,Indonesia,2022,labor_force_participation_pct,67.018
+IDN,Indonesia,2021,labor_force_participation_pct,65.868
+IDN,Indonesia,2020,labor_force_participation_pct,67.401
+IDN,Indonesia,2019,labor_force_participation_pct,68.238
+IDN,Indonesia,2018,labor_force_participation_pct,67.652
+IDN,Indonesia,2017,labor_force_participation_pct,66.694
+IDN,Indonesia,2016,labor_force_participation_pct,66.314
+IDN,Indonesia,2015,labor_force_participation_pct,66.578
+IDN,Indonesia,2014,labor_force_participation_pct,66.624
+IDN,Indonesia,2013,labor_force_participation_pct,66.757
+IDN,Indonesia,2012,labor_force_participation_pct,67.416
+IDN,Indonesia,2011,labor_force_participation_pct,66.913
+IDN,Indonesia,2010,labor_force_participation_pct,66.583
+IDN,Indonesia,2023,gdp_growth_pct,5.04883117855516
+IDN,Indonesia,2022,gdp_growth_pct,5.30719722664799
+IDN,Indonesia,2021,gdp_growth_pct,3.70288562827751
+IDN,Indonesia,2020,gdp_growth_pct,-2.06551182934165
+IDN,Indonesia,2019,gdp_growth_pct,5.01928768046282
+IDN,Indonesia,2018,gdp_growth_pct,5.17429153955024
+IDN,Indonesia,2017,gdp_growth_pct,5.06978590134916
+IDN,Indonesia,2016,gdp_growth_pct,5.03306918280177
+IDN,Indonesia,2015,gdp_growth_pct,4.87632230022123
+IDN,Indonesia,2014,gdp_growth_pct,5.006668425755
+IDN,Indonesia,2013,gdp_growth_pct,5.5572636889101
+IDN,Indonesia,2012,gdp_growth_pct,6.03005065305615
+IDN,Indonesia,2011,gdp_growth_pct,6.16978420771008
+IDN,Indonesia,2010,gdp_growth_pct,6.22385418062366
+VNM,Vietnam,2023,renewable_electricity_share_pct,
+VNM,Vietnam,2022,renewable_electricity_share_pct,
+VNM,Vietnam,2021,renewable_electricity_share_pct,41.1893989640579
+VNM,Vietnam,2020,renewable_electricity_share_pct,35.6101950954312
+VNM,Vietnam,2019,renewable_electricity_share_pct,30.8673770187175
+VNM,Vietnam,2018,renewable_electricity_share_pct,39.5259564601314
+VNM,Vietnam,2017,renewable_electricity_share_pct,45.1716093478926
+VNM,Vietnam,2016,renewable_electricity_share_pct,36.0290921584165
+VNM,Vietnam,2015,renewable_electricity_share_pct,35.3964190424428
+VNM,Vietnam,2014,renewable_electricity_share_pct,44.4826656645009
+VNM,Vietnam,2013,renewable_electricity_share_pct,48.6293021944302
+VNM,Vietnam,2012,renewable_electricity_share_pct,48.1067504592149
+VNM,Vietnam,2011,renewable_electricity_share_pct,41.0713256207241
+VNM,Vietnam,2010,renewable_electricity_share_pct,38.6856474505548
+VNM,Vietnam,2023,unemployment_pct,1.645
+VNM,Vietnam,2022,unemployment_pct,1.57
+VNM,Vietnam,2021,unemployment_pct,2.383
+VNM,Vietnam,2020,unemployment_pct,2.103
+VNM,Vietnam,2019,unemployment_pct,1.681
+VNM,Vietnam,2018,unemployment_pct,1.161
+VNM,Vietnam,2017,unemployment_pct,1.874
+VNM,Vietnam,2016,unemployment_pct,1.848
+VNM,Vietnam,2015,unemployment_pct,1.848
+VNM,Vietnam,2014,unemployment_pct,1.256
+VNM,Vietnam,2013,unemployment_pct,1.316
+VNM,Vietnam,2012,unemployment_pct,1.027
+VNM,Vietnam,2011,unemployment_pct,0.999
+VNM,Vietnam,2010,unemployment_pct,1.114
+VNM,Vietnam,2023,labor_force_participation_pct,73.545
+VNM,Vietnam,2022,labor_force_participation_pct,74.484
+VNM,Vietnam,2021,labor_force_participation_pct,73.738
+VNM,Vietnam,2020,labor_force_participation_pct,74.367
+VNM,Vietnam,2019,labor_force_participation_pct,76.615
+VNM,Vietnam,2018,labor_force_participation_pct,77.482
+VNM,Vietnam,2017,labor_force_participation_pct,77.2
+VNM,Vietnam,2016,labor_force_participation_pct,76.965
+VNM,Vietnam,2015,labor_force_participation_pct,77.43
+VNM,Vietnam,2014,labor_force_participation_pct,77.306
+VNM,Vietnam,2013,labor_force_participation_pct,77.234
+VNM,Vietnam,2012,labor_force_participation_pct,76.323
+VNM,Vietnam,2011,labor_force_participation_pct,76.372
+VNM,Vietnam,2010,labor_force_participation_pct,76.268
+VNM,Vietnam,2023,gdp_growth_pct,4.97865959483225
+VNM,Vietnam,2022,gdp_growth_pct,8.53750041218142
+VNM,Vietnam,2021,gdp_growth_pct,2.55372852648131
+VNM,Vietnam,2020,gdp_growth_pct,2.86541320912272
+VNM,Vietnam,2019,gdp_growth_pct,7.35926270105006
+VNM,Vietnam,2018,gdp_growth_pct,7.46500685572751
+VNM,Vietnam,2017,gdp_growth_pct,6.94019037359206
+VNM,Vietnam,2016,gdp_growth_pct,6.69000892660424
+VNM,Vietnam,2015,gdp_growth_pct,6.98715430598611
+VNM,Vietnam,2014,gdp_growth_pct,6.42224312118567
+VNM,Vietnam,2013,gdp_growth_pct,5.55351081026072
+VNM,Vietnam,2012,gdp_growth_pct,5.5045447041189
+VNM,Vietnam,2011,gdp_growth_pct,6.41316889681683
+VNM,Vietnam,2010,gdp_growth_pct,6.42324482239482
+THA,Thailand,2023,renewable_electricity_share_pct,
+THA,Thailand,2022,renewable_electricity_share_pct,
+THA,Thailand,2021,renewable_electricity_share_pct,19.9307401392503
+THA,Thailand,2020,renewable_electricity_share_pct,18.8002557141409
+THA,Thailand,2019,renewable_electricity_share_pct,25.2454437243751
+THA,Thailand,2018,renewable_electricity_share_pct,23.9614675434309
+THA,Thailand,2017,renewable_electricity_share_pct,20.2627968718758
+THA,Thailand,2016,renewable_electricity_share_pct,20.9233645462311
+THA,Thailand,2015,renewable_electricity_share_pct,13.1383644566273
+THA,Thailand,2014,renewable_electricity_share_pct,12.5800867327152
+THA,Thailand,2013,renewable_electricity_share_pct,12.1677661124825
+THA,Thailand,2012,renewable_electricity_share_pct,12.8615436696005
+THA,Thailand,2011,renewable_electricity_share_pct,12.9156731757451
+THA,Thailand,2010,renewable_electricity_share_pct,6.10681541683912
+THA,Thailand,2023,unemployment_pct,0.733
+THA,Thailand,2022,unemployment_pct,0.94
+THA,Thailand,2021,unemployment_pct,1.215
+THA,Thailand,2020,unemployment_pct,1.099
+THA,Thailand,2019,unemployment_pct,0.716
+THA,Thailand,2018,unemployment_pct,0.765
+THA,Thailand,2017,unemployment_pct,0.83
+THA,Thailand,2016,unemployment_pct,0.688
+THA,Thailand,2015,unemployment_pct,0.597
+THA,Thailand,2014,unemployment_pct,0.576
+THA,Thailand,2013,unemployment_pct,0.249
+THA,Thailand,2012,unemployment_pct,0.58
+THA,Thailand,2011,unemployment_pct,0.66
+THA,Thailand,2010,unemployment_pct,0.622
+THA,Thailand,2023,labor_force_participation_pct,67.814
+THA,Thailand,2022,labor_force_participation_pct,67.18
+THA,Thailand,2021,labor_force_participation_pct,66.952
+THA,Thailand,2020,labor_force_participation_pct,67.021
+THA,Thailand,2019,labor_force_participation_pct,66.94
+THA,Thailand,2018,labor_force_participation_pct,67.798
+THA,Thailand,2017,labor_force_participation_pct,67.525
+THA,Thailand,2016,labor_force_participation_pct,68.315
+THA,Thailand,2015,labor_force_participation_pct,69.269
+THA,Thailand,2014,labor_force_participation_pct,69.794
+THA,Thailand,2013,labor_force_participation_pct,69.97
+THA,Thailand,2012,labor_force_participation_pct,72.825
+THA,Thailand,2011,labor_force_participation_pct,73.226
+THA,Thailand,2010,labor_force_participation_pct,71.657
+THA,Thailand,2023,gdp_growth_pct,2.24883437970568
+THA,Thailand,2022,gdp_growth_pct,2.63784213566305
+THA,Thailand,2021,gdp_growth_pct,1.55858232076893
+THA,Thailand,2020,gdp_growth_pct,-6.09306312966953
+THA,Thailand,2019,gdp_growth_pct,2.11455779628278
+THA,Thailand,2018,gdp_growth_pct,4.22287028746071
+THA,Thailand,2017,gdp_growth_pct,4.1776810321001
+THA,Thailand,2016,gdp_growth_pct,3.43515771692182
+THA,Thailand,2015,gdp_growth_pct,3.13404724911635
+THA,Thailand,2014,gdp_growth_pct,0.984468863619426
+THA,Thailand,2013,gdp_growth_pct,2.68749556320556
+THA,Thailand,2012,gdp_growth_pct,7.24279620249642
+THA,Thailand,2011,gdp_growth_pct,0.840132083053334
+THA,Thailand,2010,gdp_growth_pct,7.51339053261624
